@@ -1,10 +1,11 @@
 """
 Logging configuration utilities for the skindose script.
 
-This module provides functions to configure logging for potentiallymultiple Python modules
-simultaneously, allowing for customized log levels, file outputs, and console
-outputs for each module. It uses Python's built-in logging module to create
-a flexible, consistent logging setup across the application.
+This module provides functions to configure logging for potentially multiple 
+Python modules simultaneously, allowing for customized log levels, file 
+outputs, and console outputs for each module. It uses Python's built-in 
+logging module to create a flexible, consistent logging setup across the 
+application.
 
 The primary function, configure_module_logging(), accepts a dictionary mapping
 module names to their configuration settings, making it easy to set up different
