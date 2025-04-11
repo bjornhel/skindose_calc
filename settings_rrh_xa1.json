@@ -4,7 +4,7 @@
     "plot_event_index": 12,
     "estimate_k_tab": true,
     "k_tab_val": 0.8,
-    "inherent_filtration": 3.1,
+    "inherent_filtration": 2.0,
     "remove_invalid_rows": false,
     "silence_pydicom_warnings": true,
     "plot": {
